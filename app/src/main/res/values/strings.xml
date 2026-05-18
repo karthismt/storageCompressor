@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Storage Doctor</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="analyze">Analyze Storage</string>
+    <string name="compress">Compress</string>
+    <string name="reports">Reports</string>
+    <string name="settings">Settings</string>
+    <string name="start_scan">Start Scan</string>
+    <string name="start_compression">Start Compression</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="cancel">Cancel</string>
+    <string name="high_quality">High Quality</string>
+    <string name="balanced">Balanced</string>
+    <string name="max_saving">Maximum Saving</string>
+    <string name="safe_compression">Safe Compression Active</string>
+    <string name="tagline">Save storage safely with verified compression.</string>
+</resources>
